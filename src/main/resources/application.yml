@@ -1,0 +1,4 @@
+server:
+  port: 8081 # 端口号
+  servlet:
+    context-path: / # 项目访问路径 /api
